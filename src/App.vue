@@ -1,7 +1,7 @@
 <template>
   <v-app>
     
-    <v-navigation-drawer app width="20%" permanent>
+    <v-navigation-drawer app width="150" permanent>
       <v-list-item>
         <v-list-item-content>
           <v-list-item-title class="text-h6"> Menu </v-list-item-title>
